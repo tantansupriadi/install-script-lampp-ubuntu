@@ -6,9 +6,6 @@
 # ./install-lampp-ubuntu.sh
 #
 ################################################################################
- 
-##fixed parameters
-#openerp
 echo -e "\n---- Update System ----"
 sudo apt-get update
 echo -e "\n---- Update installing apache ----"
